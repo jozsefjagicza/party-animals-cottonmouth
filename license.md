@@ -188,4 +188,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Party Animals · Updated 2026-11-20 · Shared under the MIT License*
+*Party Animals · Updated 2026-11-21 · Shared under the MIT License*
